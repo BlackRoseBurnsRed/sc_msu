@@ -2,8 +2,6 @@ import React, { Component } from 'react'
 import {IMAGES} from './../../static/'
 import {NavMenu} from './../NavMenu/NavMenu'
 
-import $ from 'jquery'
-
 import './desktop.css'
 
 let style = {
